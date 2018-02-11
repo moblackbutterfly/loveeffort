@@ -1,0 +1,17 @@
+p {
+  color: red;
+  font-size: 130%;
+}
+
+div {
+  color: purple;
+  background-color: rgb(158, 153, 224);
+  height: 100px;
+  width: 900px;
+  font-size: 130%;
+  font-weight: bold;
+}
+
+#cute {
+  font-style: italic;
+}
