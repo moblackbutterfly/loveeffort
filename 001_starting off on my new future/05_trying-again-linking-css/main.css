@@ -3,15 +3,40 @@ p {
   font-size: 130%;
 }
 
-div {
+#cute {
   color: purple;
   background-color: rgb(158, 153, 224);
   height: 100px;
   width: 900px;
   font-size: 130%;
   font-weight: bold;
+  border-radius: 45%;
+  border-style: dashed;
+  border-color: rgb(16, 98, 54)
 }
+
 
 #cute {
   font-style: italic;
+}
+
+.bae {
+  background-color: rgba(102, 183, 235, 0.29);
+  margin: 1em auto 0 2px;
+  color: rgb(23, 22, 87)
+}
+
+
+#check {
+  box-sizing: border-box;
+  border: 100em;
+}
+
+.nails {
+  width: 300px;
+  height: auto;
+  border: 50px groove rgb(20, 9, 26);
+  padding: 10px;
+  margin: 5px;
+  box-sizing: border-box;
 }

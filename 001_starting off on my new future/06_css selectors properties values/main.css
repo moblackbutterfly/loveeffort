@@ -1,0 +1,18 @@
+div {
+  width: 50px;
+  height: 50px;
+  border: 10px solid rgb(103, 7, 99);
+  display: inline-block;
+  margin: 3px;
+  background-color: rgb(226, 218, 230);
+}
+
+img {
+  width: 150px;
+  height: auto;
+  border: 8px ridge rgb(87, 80, 88);
+  padding: 3px;
+  margin: 2px;
+  box-sizing: border-box;
+  background-color: rgb(134, 124, 36);
+}
