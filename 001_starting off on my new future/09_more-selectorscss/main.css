@@ -1,0 +1,32 @@
+/* Insert LVHA */
+
+a:link {
+  color: rgb(143, 121, 130);
+}
+
+a:visited {
+  color: rgb(157, 233, 143);
+}
+
+a:hover {
+  color: rgb(173, 176, 155);
+}
+
+a:active {
+  color: rgb(124, 188, 195)
+}
+/* a: link {
+  color: rgb(156, 59, 72);
+} */
+/*
+a: visited {
+  color: rgb(130, 122, 244);
+}
+
+a: hover {
+  color: rgb(102, 102, 15);
+}
+
+a: active {
+  color: rgb(92, 177, 35);
+} */

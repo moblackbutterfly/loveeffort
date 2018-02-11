@@ -111,3 +111,7 @@ div {
   left: 360px;
   top: 125px;
 }
+
+[contenteditable] {
+  border: 2px dotted rgb(180, 197, 209);
+}

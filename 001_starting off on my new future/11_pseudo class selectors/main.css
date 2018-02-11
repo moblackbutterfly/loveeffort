@@ -1,0 +1,72 @@
+* {
+  color: rgba(147, 127, 26, 0.97);
+}
+
+body {
+  background-color: rgb(231, 240, 254);
+  margin: 10px;
+}
+
+header {
+  background-image: url("file://C:/Users/Charisse/loveeffort/001_starting off on my new future/11_pseudo class selectors/01_Photos/sydney.jpg");
+  display: block;
+  height: 100px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border: 2px groove rgba(13, 1, 62, 0.96);
+  padding: 2px
+}
+
+h1 {
+  text-align: center;
+  color: rgb(251, 215, 103);
+  /* text-shadow: 1px 1px rgb(159, 126, 6); */
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+h3 {
+  font-style: italic;
+}
+/* Practicing but didn't want to undo the beautifulness */
+/*
+li:first-child {
+  border: 1px solid rgb(199, 157, 77);
+  display: inline-block;
+  width: 120px;
+}
+
+li:last-child {
+  border: 1px dotted rgb(199, 157, 77);
+  display: inline-block;
+  width: 80px;
+}
+
+li:nth-child(even) {
+  color: rgb(104, 85, 111);
+}
+ */
+
+.Cairns::first-letter {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.Cairns::first-line {
+  font-style: italic;
+}
+/* Good for checking how page is laid out per tags */
+/*
+p {
+  display: inline-block;
+  border: 2px dotted black;
+  margin: 0 auto;
+} */
+
+/* Nesting selectors - good for formatting similar type of things in different places */
+/* section > p {
+  background-color: rgb(178, 211, 246);
+} */

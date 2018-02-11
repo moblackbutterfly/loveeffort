@@ -1,0 +1,12 @@
+div {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  border: 2px solid rgb(197, 190, 199);
+  background-color: rgb(250, 239, 254);
+}
+
+ div:hover {
+   background-color: rgb(71, 64, 73);
+   cursor: pointer;
+ }
